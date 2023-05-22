@@ -10,6 +10,7 @@ python = "^3.10"
 aiogram = "3.0.0b6"
 requests = "^2.30.0"
 python-dotenv = "^1.0.0"
+environs = "^9.5.0"
 
 
 [build-system]
